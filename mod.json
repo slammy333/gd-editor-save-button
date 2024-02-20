@@ -6,6 +6,7 @@
 	"name": "Editor Save Button",
 	"developer": "slammy333",
 	"description": "Adds a level save button to the editor UI.",
+	"repository": "https://github.com/slammy333/gd-editor-save-button",
 	"dependencies": [
         {
             "id": "geode.node-ids",
