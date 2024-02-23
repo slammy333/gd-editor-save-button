@@ -95,7 +95,7 @@ class $modify(SaveBtnEditor, EditorUI) {
 	void showUI(bool p0) {
 		EditorUI::showUI(p0);
 		
-		// check playtest no ui
+		// check playtest no ui (thanks gddocs!)
 		bool playtestNoUI = GameManager::sharedState()->getGameVariable("0046");
 
 		if (!playtestNoUI) {
